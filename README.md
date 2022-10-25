@@ -1,6 +1,12 @@
 # Regression-with-PyCaret
 Implementation of regression in PyCaret
 
+let's install pycaret
+
+```python
+!pip install pycaret
+```
+
 
 The first issue I faced was `Referenced from: /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/lightgbm/lib_lightgbm.so`
 
