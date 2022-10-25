@@ -1,7 +1,7 @@
 # Regression-with-PyCaret
 Implementation of regression in PyCaret
 
-let's install pycaret
+> let's install pycaret
 
 ```python
 !pip install pycaret
@@ -16,8 +16,10 @@ Solution: Just install libomp using `brew`
 brew install libomp
 ```
 
-To install brew:
+> To install brew:
 
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
+
+Full documentation [here](https://pycaret.gitbook.io/docs/get-started/quickstart)
